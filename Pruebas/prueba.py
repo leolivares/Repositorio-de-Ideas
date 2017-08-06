@@ -15,4 +15,4 @@ class Triangulo:
 # No alteres el codigo a continuacion
 t = Triangulo(int(input()),int(input()),int(input()))
 print(t.clasificar())
-print("hola")
+print("hola2")

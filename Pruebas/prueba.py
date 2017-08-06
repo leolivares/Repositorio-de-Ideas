@@ -16,3 +16,4 @@ class Triangulo:
 t = Triangulo(int(input()),int(input()),int(input()))
 print(t.clasificar())
 print("hola2")
+print("hola3")

@@ -21,3 +21,6 @@ print("gracias por la ayuda")
 
 
 print("pppppp")
+
+while True:
+    print("buena kaiser")
